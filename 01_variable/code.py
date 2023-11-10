@@ -1,4 +1,8 @@
-# How to define a variable
+"""
+This code demonstrates how to define and change variables in Python.
+It defines variables of different data types such as integer, float, and string.
+It also shows how to change the value of a variable and how it affects other variables.
+"""
 
 x = 15
 price = 9.99
@@ -20,4 +24,6 @@ print(b)
 b = 17
 print(a)
 print(b)
+
+
 
