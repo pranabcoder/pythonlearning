@@ -80,4 +80,8 @@ Numeric - > int, float, complex, bool
 Sequence - > list, tuple, string, bytes, bytearray, range
 Set -> set, frozenset
 Dictionary -> dict
+
+Difference between list and tuple
+List is mutable, tuple is immutable.
+We can change the value of a list, but we cannot change the value of a tuple.
 """	
