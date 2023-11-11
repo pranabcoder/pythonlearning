@@ -104,5 +104,7 @@ it prefers creating a new data object and then assigning it to the variable."""
 a = 13.25
 b = - 17.66
 c = 12.59
+d = -12.59
 print("{:.2e}".format(c))
+print("{:.2e}".format(d))
 
