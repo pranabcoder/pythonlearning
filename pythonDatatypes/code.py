@@ -91,3 +91,6 @@ Set is unordered collection of unique items.
 frozenset is immutable set. it is also unordered collection of unique items.Its value cannot be changed.
 Dictionary is unordered collection of key value pairs.
 """	
+# Check Memory consume by variable
+x = 12378906578901234567890
+print(x.__sizeof__())
