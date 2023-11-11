@@ -47,4 +47,10 @@ print(type(x))
 x = [1, 2, 3, 4, 5]
 print(type(x))
 
-
+"""	
+Rules for declaring variables in Python
+1. Name can contain alpha-numerical characters and underscore.
+2. Name should start with a letter or an underscore.
+3. Keyword should not be used as variable name.
+4. Variable name is case sensitive.
+"""
