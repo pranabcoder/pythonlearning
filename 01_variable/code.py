@@ -84,4 +84,10 @@ Dictionary -> dict
 Difference between list and tuple
 List is mutable, tuple is immutable.
 We can change the value of a list, but we cannot change the value of a tuple.
+String is also immutable. it is sequence of characters.
+bytes is immutable sequence of bytes. its value is 0 to 255.
+bytearray is mutable sequence of bytes. its value is 0 to 255.
+Set is unordered collection of unique items.
+frozenset is immutable set. it is also unordered collection of unique items.Its value cannot be changed.
+Dictionary is unordered collection of key value pairs.
 """	
