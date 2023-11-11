@@ -68,4 +68,16 @@ module or object which will be used in our program.
 
 When we say keyword, it is nothing but the reserved words in Python.
 These keywords are used to define the syntax and structure of the Python language.
+"""
+price = 9.99
+# price of item = 12.5 -> invalid syntax
+# 1x = 5 -> invalid syntax
+# while = 10  -> invalid syntax
+
+# Python Data Types
+"""	
+Numeric - > int, float, complex, bool
+Sequence - > list, tuple, string, bytes, bytearray, range
+Set -> set, frozenset
+Dictionary -> dict
 """	
