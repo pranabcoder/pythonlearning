@@ -54,3 +54,18 @@ Rules for declaring variables in Python
 3. Keyword should not be used as variable name.
 4. Variable name is case sensitive.
 """
+# Example
+x1 = 5
+address1 = "India"
+# address 1 = "India" -> invalid syntax
+# address$1 = "India" -> invalid syntax
+# _x1 = 5 -> valid
+
+# Difference between identifier and keywords
+""" 
+When we say identifier, it is nothing but the name of a variable, function, class, 
+module or object which will be used in our program.
+
+When we say keyword, it is nothing but the reserved words in Python.
+These keywords are used to define the syntax and structure of the Python language.
+"""	
