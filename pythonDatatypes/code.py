@@ -96,3 +96,8 @@ x = 12378906578901234567890
 print(x.__sizeof__())
 y = -17
 print(y.__sizeof__())
+
+""" Maximum data types in python are immutable. So, instead of modifying the value of a variable,
+it prefers creating a new data object and then assigning it to the variable."""
+
+
