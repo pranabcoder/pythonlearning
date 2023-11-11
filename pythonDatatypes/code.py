@@ -108,3 +108,4 @@ d = -12.59
 print("{:.2e}".format(c))
 print("{:.2e}".format(d))
 
+# Boolean data type
