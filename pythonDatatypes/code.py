@@ -94,3 +94,5 @@ Dictionary is unordered collection of key value pairs.
 # Check Memory consume by variable
 x = 12378906578901234567890
 print(x.__sizeof__())
+y = -17
+print(y.__sizeof__())
