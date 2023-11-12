@@ -119,3 +119,8 @@ a = 5 + 6j
 print(type(a))
 print(a.real)
 print(a.imag)
+
+# Literals
+"""
+Literal is a data which is given to variables or constants.
+"""
