@@ -113,3 +113,9 @@ a = True
 print(type(a))
 int(a)
 print(a)
+
+# Complex data type
+a = 5 + 6j
+print(type(a))
+print(a.real)
+print(a.imag)
