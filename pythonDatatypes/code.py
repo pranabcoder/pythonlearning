@@ -109,3 +109,7 @@ print("{:.2e}".format(c))
 print("{:.2e}".format(d))
 
 # Boolean data type
+a = True
+print(type(a))
+int(a)
+print(a)
